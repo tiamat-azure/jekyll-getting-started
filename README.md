@@ -112,5 +112,12 @@ Usefull commands
 
     # launch spécific version
     jekyll _3.8.6_ -v
-    
+
     jekyll _4.0.0_ -v
+
+    # Uninstall gem
+    gem uninstall jekyll
+
+    # Install specific version
+    gem install jekyll -v 3.5
+    
