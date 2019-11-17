@@ -9,6 +9,7 @@ First steps tutorial with Jekyll.
 - [Install Linux Windows Subsystem](https://docs.microsoft.com/fr-fr/windows/wsl/install-win10)
 - [setting-up-docker-for-windows-and-wsl-to-work-flawlessly](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly)
 - [Ruby Gem Repository](https://rubygems.org)
+- [Minimal Mistake custom theme](https://mmistakes.github.io/minimal-mistakes/docs/navigation/)
 
 ## Install Ruby developement environment
 
@@ -120,4 +121,3 @@ Usefull commands
 
     # Install specific version
     gem install jekyll -v 3.5
-    
